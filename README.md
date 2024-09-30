@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning *Django*
+- 🌱 I’m currently learning *Android Development*
 - 😄 Pronouns: *She/Her*
 - ⚡ Fun fact: I can speak 3 languages 🤔
 
