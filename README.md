@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning *Android Development*
-- 🔭 I'm currently working on developing my skills in Adnroid/IOS application development
+- 🔭 I'm currently working on developing my skills in Android/IOS application development
 - 📫 You can check out my Leetcode profile on : https://leetcode.com/u/ShaliniFatehpuriya/
 - 😄 Pronouns: *She/Her*
 - ⚡ Fun fact: I can speak 3 languages 🤔
