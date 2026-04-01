@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently studying at NYCU Taiwan*
+- 🌱 I’m currently studying at NYCU Taiwan (Masters in Computer Science)*
 - 🔭 Working on Machine Learning (Almost going bald seeing maths)
 - 📫 You can check out my Leetcode profile on : https://leetcode.com/u/ShaliniFatehpuriya/
 - 😄 Pronouns: *She/Her*
