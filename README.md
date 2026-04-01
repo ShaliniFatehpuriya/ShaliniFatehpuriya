@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning *Android Development*
-- 🔭 I'm currently working on developing my skills in Android/IOS application development
+- 🌱 I’m currently studying at NYCU Taiwan*
+- 🔭 Working on Machine Learning (Almost going bald seeing maths)
 - 📫 You can check out my Leetcode profile on : https://leetcode.com/u/ShaliniFatehpuriya/
 - 😄 Pronouns: *She/Her*
 <!--
